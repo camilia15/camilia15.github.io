@@ -6,10 +6,10 @@ menubar: menu_bar
 download_cv: assets/docs/Template_CV.pdf
 ---
 
-## Formation 
+## cycly pre-ingenieur  
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+**Nom de votre école** 
 
 Elève ingénieur en [préciser la spécialité]
 * Cours : préciser les cours en phase avec le poste visé
