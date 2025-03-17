@@ -14,54 +14,36 @@ download_cv: assets/docs/Template_CV.pdf
 Elève ingénieur en energie et numerique 
 * mathematiques / physique / electronique 
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2024` **Projet d’étude – conception et prototypage**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 2 étudiants_
+* creer de A a Z l'objet de notre choix 
+* conceptualiser un mini robot 
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2021` **Societe generale**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Stage – service informatique _
 
-`20XX` **Association, description de l’asso., taille**
+## Association
+`2025` **BDS**
 
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* Anglais : niveau B1
+* chinois : niveau A2
+* arabe : native
+* francais : native 
 
 Informatique
 * Logiciels maitrisés
 * Logiciels maitrisés
 
 Autres
-* Autres diplômes ou permis spéciaux
+* BAC (mention assez bien)
 
-## Centres d’intérêt
-
-Loisirs 1
-* Description 
-* Description 
-
-Loisirs 1
-* Description 
-* Description 
