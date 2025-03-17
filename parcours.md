@@ -9,10 +9,10 @@ download_cv: assets/docs/Template_CV.pdf
 ## cycly pre-ingenieur  
 
 `2024 – 2029`
-**Nom de votre école** 
+**Unilasalle Amiens** 
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+Elève ingénieur en energie et numerique 
+* mathematiques / physique / electronique 
 
 `20XX – 20XX`
 **DUT [préciser la spécialité]** - Université [préciser le lieu]
