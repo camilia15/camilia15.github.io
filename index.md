@@ -16,7 +16,7 @@ Elève cycle pré-ingénieur en énergie et numérique
 
 [camilia.souaissia[at]etu.unilasalle.fr](mailto:Prenom.Nom@xxx.com)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[insta](https://www.instagram.com)
 
 Permis B, voiture
 
